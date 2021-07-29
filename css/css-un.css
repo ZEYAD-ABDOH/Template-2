@@ -1,0 +1,359 @@
+@font-face {
+    font-family: NotoKufiArabic-Regular;
+    src: url(fonts/NotoKufiArabic-Regular.ttf);
+}
+body{
+    font-family: NotoKufiArabic-Regular;
+}
+.bg-light {
+    background-color:#C73131!important;
+}
+
+.logo {
+    width:100px;
+    margin-left: 60px;
+  
+}
+.logo2{
+    background-color: #000000;
+    padding: 26px 6px;
+    width: 153px;
+    
+}
+.navbar-light .navbar-brand{
+    
+    color: rgb(199, 49, 49) !important;
+
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+  
+    margin-right: 35px;  
+    color: rgb(199, 49, 49) !important;
+  
+}
+.read-more{
+    font-weight: bold;
+    border-radius:10px;
+    background-color: white;
+    color:#C73131!important;
+    border: 10px solid white;
+}
+.read-more:hover{
+    color:white!important;
+    border: 10px solid#C73131!important;
+    background-color: #C73131!important;
+}
+
+.small-line{
+    display: inline-block;
+    border-bottom: 2px solid #818080 ;
+    padding-bottom: 10px;
+    width: 89px;
+    padding: 4px;
+    margin-right: 22px;
+    color: #C73131;
+ 
+  
+}
+
+.rowservices {
+    max-width: fit-content;
+    background-color: rgb(236, 220, 208);
+    border-left:3px solid red ;
+}
+.read-more2{ 
+    margin-right: 200px;
+    font-weight: 900;
+    border-radius:10px;
+    background-color: white;
+    color:#C73131!important;
+    border: 10px solid white;
+ 
+}
+.read-more2:hover{
+    color:white!important;
+    border: 10px solid#C73131!important;
+    background-color: #C73131!important;
+
+
+}
+
+
+
+
+.h5{
+    text-align: center;
+    font-size: 30px;
+}
+.text{
+    font-size: 10px;
+    font-weight: 400;
+color: #a6a6a7;
+   
+    margin-top: 5px;
+  
+    text-align: center;  
+}
+
+.undergraduate{
+    color: #d86a4c;
+    font-size:20px;
+}
+.row {
+    flex-direction: row;
+    margin:10px;
+    padding:10px;
+ 
+}
+.row1{
+   padding: 6px;
+    background-color: #EFEFEF;
+    border-left: 4px solid #9c2323;
+}
+.logo{
+    
+margin-left: 4px;
+}
+.logoo1{
+  
+    padding: 2px;
+    margin-top: -204px;
+    width: 63px;
+}
+
+
+
+.row2{
+    padding: 6px;
+    background-color: #EFEFEF;
+    border-left: 4px solid #4E7AC1;
+}
+.logoo2{
+    margin-right: -3px;
+   
+    padding: 5px;
+    margin-top: -134px;
+    width: 58px;
+}
+.logoo3{
+    padding: 2px;
+    margin-right: -17px;
+   
+    margin-top: -12px;
+    width: 89px;
+}
+.logoo4{
+    padding: 2px;
+    margin-right: -17px;
+    margin-top: 15px;
+    width: 89px;
+
+}
+.hero-image{
+    
+        background-image: url("../img/1037605724_0_40_1920_1077_1000x541_80_0_0_8d1f40afbb67f6b88dc32db88548470e.jpg");
+        background-color: #cccccc;
+        height:400px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+      }
+      
+.h2{
+ 
+    border-bottom: 2px solid #f7eeee ;
+    padding-bottom: 10px;
+    width: 164px;
+    padding: 4px;
+    margin-right: 150px;
+    color: #EFEFEF;
+
+
+ 
+
+}
+.text-new{
+    margin-right: 128px;
+    padding:20px ;
+    font-weight: bold;
+    font-size: 22px;
+    color: #EFEFEF;
+
+}
+.view{
+    width: 532px;
+    margin-right: 345px;
+    margin-top: -237px;
+}
+.rouh{
+   
+    padding-bottom: 10px;
+    padding: 4px;
+    color: #9c2323;
+    border-bottom: 3px solid #EFEFEF ;
+    text-align: center;
+}
+.script{
+    font-weight: 900;
+    margin: 37px;
+    background-color: #EFEFEF;
+}
+.read-more3{
+    text-decoration: none;
+    color: #fff;
+    background-color: #AE230E;
+    border: 8px solid #AE230E;
+    border-radius: 6px;
+    margin-right: 586px;
+    
+    
+}
+.read-more3:hover{
+    font-weight: 900;
+    border-radius: 10px;
+    color: #AE230E;
+    border: 8px solid #ffffff;
+    background-color: #EFEFEF;
+    
+    
+    
+
+}
+ 
+
+div.gallery {
+
+    margin: 20px;
+    float: left;
+    width: 224px;
+  }
+  
+  div.gallery:hover{
+    border: 1px solid #9c2323;
+  }
+  
+  div.gallery img {
+    width:  197px;;
+    height: auto;
+  }
+  
+  div.desc {
+      
+      font-weight: bold;
+      color: #9c2323;
+    padding: 15px;
+    text-align: center;
+  }
+  .lilbry-image{
+    background-image: url("../img/contain_1240x696.jpg");
+    background-color: #cccccc;
+    background-attachment: fixed;
+    height:270px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+  }
+  .lilbry-text  h1{
+      font-weight: bold;
+      margin-top: 15px;
+      text-align: center;
+      color: #EFEFEF;
+  }
+  .lilbry-text  p{
+      margin: 40px;
+      font-size: 25px;
+    font-weight: 900;
+    text-align: center;
+    color: #EFEFEF;
+
+
+  }
+  article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.column { 
+    padding: 2px;
+    float: left;
+    width: 19%;
+   height: 300px;
+}
+p {
+    font-size:20px;
+    font-weight:bold;
+}
+.a1 a{
+    text-decoration: none;
+    color:  #fff !important;
+}
+
+
+.h1{
+  font-size: 27px; font-weight: bold; color: #c73131;
+}
+
+
+
+.university-vision {
+    text-align: center;
+    padding: 51px 299px;
+   
+    color: #777676;
+    background-color: #ffffff;
+    font-size: 23px;
+}
+.university-vision:hover{
+    background-color:#fff;
+    transition-duration: 1s;
+    border-radius: 11px;
+}
+.about {
+    text-align: center;
+    width: 82%;
+    padding: 17px 0;
+}
+.details button {
+    background-color: #c73131;
+    color: #fff;
+    padding: .7rem 2rem;
+    margin-top: 2rem;
+    border-radius: 11px;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+}
+
+
+
+.animate__jackInTheBox {
+    --animate-duration: 1s;
+  }
+  
+ 
+  :root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+  }
+  .animate__rubberBand{
+    --animate-duration: 1s;
+}
+
+
+:root {
+  --animate-duration: 700ms;
+  --animate-delay: 0.9s;
+}
+  .animate__zoomInDown{
+    --animate-duration: 5s;
+  }
+  :root {
+    --animate-duration: 700ms;
+    --animate-delay: 0.9s;
+  }
